@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-To view the website you must visit:
+To view the website you must visit: https://whydidichoosephysics.github.io/challenge-week1/
 
 
 ## Credits
